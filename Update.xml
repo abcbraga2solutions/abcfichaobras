@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<item>
+<version>2.0.0.0</version>
+<url>https://github.com/CursedMun/UpdateTest/blob/master/AutoUpdaterTestWPF.zip?raw=true</url>
+<changelog>
+https://www.google.com
+</changelog>
+<mandatory>false</mandatory>
+</item>
