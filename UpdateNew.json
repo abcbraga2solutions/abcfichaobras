@@ -3,8 +3,8 @@
    "url": "https://github.com/abcbraga2solutions/abcfichaobras/blob/v1.0.2.1/1.0.2.1.zip?raw=true",
    "changelog": "https://www.google.com",
    "mandatory": {
-      "value": false,
-      "minVersion": "1.0.0.6",
+      "value": true,
+      "minVersion": "1.0.2.1",
       "mode": 1
    }
 }
