@@ -4,7 +4,7 @@
    "changelog": "https://www.google.com",
    "mandatory": {
       "value": true,
-      "minVersion": "1.0.3.6,
+      "minVersion": "1.0.3.6",
       "mode": 1
    }
 }
