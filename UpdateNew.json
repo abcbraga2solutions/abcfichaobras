@@ -1,10 +1,10 @@
 {
-  "version": "1.0.4.3",
-  "url": "https://github.com/abcbraga2solutions/abcfichaobras/blob/v1.0.4.0/1.0.4.3.zip?raw=true",
+  "version": "1.0.4.4",
+  "url": "https://github.com/abcbraga2solutions/abcfichaobras/blob/v1.0.4.0/1.0.4.4.zip?raw=true",
   "changelog": "https://www.google.com",
   "mandatory": {
      "value": true,
-     "minVersion": "1.0.4.3",
+     "minVersion": "1.0.4.4",
      "mode": 1
   }
 }
