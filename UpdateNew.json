@@ -1,10 +1,10 @@
 {
-  "CurrentVersion": "1.0.6.8",
-  "DownloadURL": "https://github.com/abcbraga2solutions/abcfichaobras/blob/v1.0.6.0/1.0.6.8.zip?raw=true",
+  "CurrentVersion": "1.0.6.9",
+  "DownloadURL": "https://github.com/abcbraga2solutions/abcfichaobras/blob/v1.0.6.0/1.0.6.9.zip?raw=true",
   "ChangelogURL": "https://www.google.com",
   "Mandatory": {
      "Value": true,
-     "MinimumVersion": "1.0.6.8",
+     "MinimumVersion": "1.0.6.9",
      "UpdateMode": 1
   }
 }
